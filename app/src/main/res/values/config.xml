@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Watson Conversation Service Credentials --> 
+    <string name="workspace_id"></string> 
+    <string name="conversation_username"></string> 
+    <string name="conversation_password"></string>
+</resources>
